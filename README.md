@@ -18,7 +18,7 @@ An introduction to HTML
 Students who complete this assignment will be able to:
 
 - Compare markup languages and describe the primary function of HTML on the web.
-- Describe the anatomy of a web page, includ elements, tags, attributes, and nesting.
+- Describe the anatomy of a web page, include elements, tags, attributes, and nesting.
 - Use HTML to create a basic web page.
 - Explain essential computing concepts from the activities in the [learn-computing](https://github.com/omundy/learn-computing) modules.
 - Use Git and Github to fork, clone, update, and publish files in a repository.
@@ -49,7 +49,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 1. Clone your new fork to the `critical-web-design` folder on your machine (Open with Github Desktop)
 
 
-### Code
+### Code    
 
 Add the following content inside `index.html`. Use HTML to make your text readable. Experiment!
 
